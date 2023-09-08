@@ -1,0 +1,74 @@
+#mainButton{
+    background-color: #0278fc;
+    /* padding-top: 7px; */
+    /* padding-bottom: 7px; */
+    border: none;
+    border-radius: 9px;
+    padding: 5px 12px;
+    color: white;
+}
+
+#updateButton{
+    color: #DE3140;
+}
+
+#input {
+    padding: 6px 10px;
+    width: 436px;
+    border-radius: 5px;
+}
+
+#deleteButton{
+    background-color: #DE3140;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+#editButton{
+    background-color: #13f539;
+    border: none;
+    border-radius: 6px;
+    padding: 5px 16px;
+}
+
+#updateButton{
+    border: none;
+    border-radius: 6px;
+    padding: 5px 16px;
+}
+
+#liButton{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#divButton{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}   
+
+#form-id{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+#todoData{
+    width: 100%;
+    display: flex;
+    justify-content: center;    width: 100%;
+}
+
+ul{
+    width: 40%;
+}
+
+h1{
+    text-align: center;
+    font-family: math;
+}
